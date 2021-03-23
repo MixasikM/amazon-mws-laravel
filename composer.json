@@ -1,12 +1,12 @@
 {
-    "name": "sonnenglas/laravel-amazon-mws",
-    "description": "Use Amazon's MWS web services with Laravel ^7.x. Based on creacoon/amazon-mws-laravel package and modified to make it compatible with latest Laravel releases (+ bugfixes).",
+    "name": "mixasikm/amazon-mws-laravel",
+    "description": "Use Amazon's MWS web services with Laravel ^7.x. Based on creacoon/amazon-mws-laravel and sonnenglas/laravel-amazon-mws packages and modified to make it compatible with latest Laravel releases (+ bugfixes).",
     "license": "Apache-2.0",
     "keywords": ["API", "Amazon", "PHP", "MWS", "Laravel"],
     "authors": [
         {
-            "name": "Przemek Peron",
-            "email": "przemek@redkorn.pl"
+            "name": "Mihail Stepanenko",
+            "email": "m@stepanenko.eu"
         }
     ],
     "require": {
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Sonnenglas\\AmazonMws\\": "src"
+            "MixasikM\\AmazonMws\\": "src"
         }
     },
     "minimum-stability": "stable"

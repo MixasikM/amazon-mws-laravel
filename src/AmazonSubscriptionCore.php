@@ -1,4 +1,4 @@
-<?php namespace Sonnenglas\AmazonMws;
+<?php namespace MixasikM\AmazonMws;
 
 /**
  * Copyright 2013 CPI Group, LLC
